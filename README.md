@@ -28,8 +28,11 @@ The data spans over 1 million rows, imported from CSV files using BULK INSERT.
 This project primarily focuses on leveraging SQL to explore data from multiple tables
 
 Complex Joins and Aggregations: Demonstrating the ability to perform complex SQL joins and aggregate data frm multiple tables
+
 Window Functions: Using advanced window functions for running totals, growth analysis, and time-based queries
+
 Data Segmentation: Analyzing data across different time frame to gain insights into product performance
+
 Correlation Analysis: Applying SQL functions to determine relationships between variables, such as product price and warranty claims
 
 ## ERD: 
