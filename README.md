@@ -1,6 +1,6 @@
 # Apple-Sales-Analysys-SQL-PowerBI [Dataset-1M]
 
-<img width="310" height="163" alt="image" src="https://github.com/user-attachments/assets/507f2391-d355-46cf-9eca-491d168c2ca4" />
+<img width="1310" height="700" alt="image" src="https://github.com/user-attachments/assets/507f2391-d355-46cf-9eca-491d168c2ca4" />
 
 
 This project demonstrates advanced SQL querying Techniques on dataset of over 1Million roles from Apple sales record. 
